@@ -8,3 +8,5 @@
 - _from_ `bridgedxyz/bridged` (app) _to_ [`gridaco/grida`](https://github.com/gridaco/grida)
 
 ## We are now [`Grida`](https://grida.co)
+
+Learn the full details at [Migration docs](https://www.notion.so/grida/2021-Q3-Grida-initial-71651f97872a411897b9bbb438b4c671)
