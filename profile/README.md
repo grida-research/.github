@@ -1,4 +1,4 @@
-# README
+# README ➡ Our main organization moved to [github.com/gridaco](https://github.com/gridaco)
 
 ## Important notice for bridged.xyz, bridged.cc Users
 
